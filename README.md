@@ -6,7 +6,7 @@
 ###    I am especially interssted in computer vision
 ####
 
-#### Career
+#### 😄Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:---------:|:---------:|
@@ -16,7 +16,7 @@
 | **Competitions** | 2021.2 ~ 2021.3  | 제2회 컴퓨터 비전 학습 경진대회 (42th/216) | **Dacocn** |
 | **Competitions** | 2021.3 ~ 2021.4  | 롯데 비전 Ai 경진대회 (   /   ) | **Lotte** |
 
-#### Technology Stack 🔭
+#### 🔭Technology Stack
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhoo6808@gmail.com)](mailto:junhoo68081@gmail.com)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorchg&logoColor=red)
