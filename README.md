@@ -17,7 +17,7 @@
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=green)
 ![Numpy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue)
 
-#####  State
+#####  🌱 State
 ![jsja22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsja22&show_icons=true)
 
 ###### 💻 Certificate
