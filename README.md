@@ -1,5 +1,6 @@
-### Ai Developer 👋
-
+### 👋 Hello My name is Junho, I am a Ai Developer who is interested in ML/DL. 
+###    My major is electrical engineering and I am currently studying artificial intelligence.
+###    I am especially interssted in computer vision
 #### Technology Stack 🔭
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhoo6808@gmail.com)](mailto:junhoo68081@gmail.com)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue)
@@ -12,6 +13,10 @@
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=green)
 ![Numpy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+#####  State
+![jsja22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsja22&show_icons=true)
+
 
 <!--
 **jsja22/jsja22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
