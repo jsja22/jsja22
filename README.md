@@ -1,6 +1,7 @@
 ### 👋 Hello My name is Junho, I am a Ai Developer who is interested in ML/DL. 
 ###    My major is electrical engineering and I am currently studying artificial intelligence.
 ###    I am especially interssted in computer vision
+####
 #### Technology Stack 🔭
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhoo6808@gmail.com)](mailto:junhoo68081@gmail.com)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue)
@@ -12,8 +13,7 @@
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=blue)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=green)
 ![Numpy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ai%20Developer&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Ai%20Developer&fontSize=60)
 #####  State
 ![jsja22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsja22&show_icons=true)
 
