@@ -12,7 +12,7 @@
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=blue)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=green)
 ![Numpy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ai%20Developer&fontSize=90)
 
 #####  State
 ![jsja22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsja22&show_icons=true)
