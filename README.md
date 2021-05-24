@@ -1,8 +1,10 @@
-### Hi there 👋
+### Ai Developer 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhoo6808@gmail.com)](mailto:junhoo68081@gmail.com)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue)
-
+![Machinelearning Badge](https://img.shields.io/badge/Machinelearning?style=flat-square&logo=Machinelearning&logoColor=yellow)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=orange)
+![Ros Badge](https://img.shields.io/badge/Ros-22314E?style=flat-square&logo=Ros&logoColor=blue)
 <!-- https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue&link=https://velog.io/@new_wisdom/git-%EA%B0%84%EC%A3%BD%EA%B0%84%EC%82%B4-git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
  -->
 
