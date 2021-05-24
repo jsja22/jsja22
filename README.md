@@ -5,6 +5,10 @@
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorchg&logoColor=red)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=orange)
 ![Ros Badge](https://img.shields.io/badge/Ros-22314E?style=flat-square&logo=Ros&logoColor=blue)
+![Ros Badge](https://img.shields.io/badge/Ros-22314E?style=flat-square&logo=Ros&logoColor=blue)
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=green)
+
+
 <!-- https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue&link=https://velog.io/@new_wisdom/git-%EA%B0%84%EC%A3%BD%EA%B0%84%EC%82%B4-git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
  -->
 
