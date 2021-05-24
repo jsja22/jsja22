@@ -1,6 +1,6 @@
 ### Ai Developer 👋
 
-#### My Skills 🔭
+#### Technology Stack 🔭
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhoo6808@gmail.com)](mailto:junhoo68081@gmail.com)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorchg&logoColor=red)
@@ -11,7 +11,7 @@
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=blue)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=green)
 ![Numpy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **jsja22/jsja22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
