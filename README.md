@@ -14,7 +14,7 @@
 | **External activities** | 2020.12 ~ 20201.7 | Artificial Intelligence Developer Course  | **Ai Academy** |
 | **Competitions** | 2020.12 ~ 2021.1 | 태양광 발전량 예측 AI 경진대회 (100th/461) | **Dacocn** |  
 | **Competitions** | 2021.2 ~ 2021.3  | 제2회 컴퓨터 비전 학습 경진대회 (42th/216) | **Dacocn** |
-| **Competitions** | 2021.3 ~ 2021.4  | 롯데 비전 Ai 경진대회 (   /   ) | **Lotte** |
+| **Competitions** | 2021.3 ~ 2021.4  | 롯데 비전 Ai 경진대회 ( 31th ) | **Lotte** |
 
 #### 🔭Technology Stack
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhoo6808@gmail.com)](mailto:junhoo68081@gmail.com)
