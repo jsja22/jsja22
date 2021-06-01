@@ -4,7 +4,7 @@
 ### 👋 Hello My name is Junho, I am a Ai Developer who is interested in ML/DL. 
 ###    My major is electrical engineering and I am currently studying artificial intelligence.
 ###    I am especially interssted in computer vision
-#####
+####
 
 ### 😄Career
 
